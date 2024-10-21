@@ -55,6 +55,22 @@ else:
      else:
 
           return c, "C ada]
+
+# input bilangan A, B,  C 
+
+print("masukkan tiga bilangan 
+
+a = float(input("A: "))
+
+b = float(input("B: "))
+
+c = floaat(input("C: "))
+
+
+
+
+
+    
  
 
 
