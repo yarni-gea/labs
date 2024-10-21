@@ -64,7 +64,17 @@ a = float(input("A: "))
 
 b = float(input("B: "))
 
-c = floaat(input("C: ")) 
+c = floaat(input("C: "))
+
+# menentukan bilangan terbesar 
+
+largest, message = mencari_bilanga_terbesar(a, b, c)
+
+# menampilkan hasil 
+
+print(f"\n{message}")
+
+print(f"Bilangan terbesar adalah: {largest}"]
 
 
 
