@@ -19,8 +19,11 @@ adalah program untuk menampilkan
 bilangan terbesar 3 dari bilangan yang di
 
 inputkan 
-![image](https://github.com/user-attachments/assets/eaf9576c-05ec-43a6-93cb-194a5892c212)
+
+berikut flowchartnya 
+
+ ![image](https://github.com/user-attachments/assets/eaf9576c-05ec-43a6-93cb-194a5892c212)
 
 
 
-Berikut flowchartnya 
+
