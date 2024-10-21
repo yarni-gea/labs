@@ -143,7 +143,7 @@ find_largest_number yang akan
 
 menangani logika utama program.
 
-largest = float('-inf')  
+    largest = float('-inf')  
 
 menginisialisasi variabel largest dengan 
 
@@ -155,4 +155,77 @@ memastikan bahwa angka selalu lebih besar.
 
 adalah nilai negatif berapapun.
 
- count = 0
+    count = 0
+
+menginisialisasi variabel count untuk
+
+menghitung jumlah bilangan yang 
+
+dimasukkan
+
+    while true:
+
+memulai loop tak terbatas. Akan terus
+
+berjalan sampai dihentikan oleh break.
+
+     num = float(input(f"masukkan bilangan ke-{count + 1} (atau 0untuk selesai):"))
+
+meminta input dari pengguna,
+
+mengkonversinya ke float, dan
+
+menyimpannya dalam variabel num.
+
+     if num == 0:
+
+                 break
+
+jika input adalah o, keluar dari loop.
+
+        count += 1
+
+menambah penghitung jumlah bilangan
+
+lebih besar dari largest saat ini, update
+
+largest.
+
+        return largest, count
+
+setelah loop selesai, kembalikkan
+
+bilangan tersebut dan jumlah input.
+
+       print("program untuk menentukan bilangan terbesar dari N bilangan")
+       print("masukkan angka 0 untuk mengakhiri input\n")
+
+mencetak instruksi untuk pengguna.
+
+       largest, count = find_largest_number()
+
+memanggil fungsi find_largest_number()
+
+dan menyimpan hasilnya.
+
+      if count > 0:
+mememriksa apakah ada bilangan yang
+
+dimasukkan.
+
+         
+
+
+        
+
+
+
+           
+            
+
+
+
+
+
+ 
+
