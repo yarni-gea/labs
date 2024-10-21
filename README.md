@@ -56,7 +56,7 @@ else:
 
           return c, "C ada]
 
-# input bilangan A, B,  C 
+ input bilangan A, B,  C 
 
 print("masukkan tiga bilangan 
 
