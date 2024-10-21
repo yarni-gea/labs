@@ -41,6 +41,20 @@ if a > b :
      if a > c
 
          return a, "A ada]
+
+     else:
+
+          return c, "c ada]
+
+else:
+
+     if b > c:
+
+          return b, "B ada]
+
+     else:
+
+          return c, "C ada]
  
 
 
