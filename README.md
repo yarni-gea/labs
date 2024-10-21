@@ -9,3 +9,5 @@ kelas:TI.24.A3
 nim: 312410413
 
 Bilangan terbesar dari 
+
+1. bilangan terbesar.py
