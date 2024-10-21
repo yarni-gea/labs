@@ -123,7 +123,16 @@ memasukkan nilai 0
 
 ![image](https://github.com/user-attachments/assets/03ba14fe-993e-4089-b8f2-329fdf75bd20)
 
-Program akan meminta kita untuk memasukkan angka untuk dibandingkan, `input akan terus diminta sebelum user memasukkan angka 0 :
+program akan meminta kita  untuk
+
+memasukkan angka untuk
+
+di bandingkan,`input akan terus diminta 
+
+sebelum user memasukkan angka 0: 
+
+<img width="361" alt="image" src="https://github.com/user-attachments/assets/00d9719d-61fb-4702-ac16-81494344f8a8">
+
 
 
  
