@@ -133,6 +133,12 @@ sebelum user memasukkan angka 0:
 
 <img width="361" alt="image" src="https://github.com/user-attachments/assets/00d9719d-61fb-4702-ac16-81494344f8a8">
 
+penjelasan code
+
+def find_largest_number():
+
+Mendefinisikan fungsi bernama find_largest_number yang akan menangani logika utama program.
+
 
 
  
