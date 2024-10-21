@@ -213,6 +213,20 @@ mememriksa apakah ada bilangan yang
 
 dimasukkan.
 
+        print(f"\njumlah bilangan yang dimauskkan: {count}")
+               print(f"Bilangan terbesar adalah: {largest}")
+
+jika ada bilangan yang dimasukkan,
+
+cetak jumlah input dan bilangan terbesar.
+
+       else:
+
+            print("\ntidak ada bilangan yang dimasukkan.")
+
+
+       
+
          
 
 
