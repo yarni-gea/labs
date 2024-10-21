@@ -26,9 +26,9 @@ berikut flowchartnya
 
  ## program akan meminta kita
 
- memasukkan 3 angka untuk 
+## memasukkan 3 angka untuk
 
- dibandingkan: 
+## dibandingkan 
 
  
 
