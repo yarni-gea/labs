@@ -34,37 +34,43 @@ berikut flowchartnya
 
 penjelasan
 
-def mencari_bilangan_terbesar
+def mencari_bilangan_terbesar(a, b, c):
 
 if a > b :
 
      if a > c
 
-         return a, "A ada]
+         return a, "A adalah bilangan terbesar" 
 
      else:
 
-          return c, "c ada]
+          return c, "c adalah terbesar"
 
 else:
 
      if b > c:
 
-          return b, "B ada]
+          return b, "B adlalah terbesar"
 
      else:
 
-          return c, "C ada]
+          return c, "C adalah terbesar"
 
  input bilangan A, B,  C 
 
-print("masukkan tiga bilangan 
+print("masukkan tiga bilangan:")  
 
 a = float(input("A: "))
 
 b = float(input("B: "))
 
-c = floaat(input("C: "))
+c = floaat(input("C: ")) 
+
+
+
+
+
+
 
 
 
