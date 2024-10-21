@@ -18,4 +18,6 @@ adalah program untuk menampilkan
 
 bilangan terbesar 3 dari bilangan yang di
 
-inputkan
+inputkan 
+
+Berikut flowchartnya 
