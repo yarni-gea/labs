@@ -143,7 +143,7 @@ find_largest_number yang akan
 
 menangani logika utama program.
 
-largest = float('-inf')
+largest = float('-inf')  
 
 menginisialisasi variabel largest dengan 
 
