@@ -224,6 +224,16 @@ cetak jumlah input dan bilangan terbesar.
 
             print("\ntidak ada bilangan yang dimasukkan.")
 
+jika tidak ada bilangan yang dimasukkan 
+
+(pengguna langsung memasukkan 0 ),
+
+program akan dijalankan dan 
+
+menampilkan output perbandingan.
+
+       
+
 
        
 
