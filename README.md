@@ -76,6 +76,23 @@ print(f"\n{message}")
 
 print(f"Bilangan terbesar adalah: {largest}"]
 
+1. kita menedefenisika function
+
+   mencari_bilangan_terbesar yang
+
+   mengambil tiga paramrter(a,b,b)
+
+2. funtion tersebut menggunakan
+
+   nested if-else statement untuk
+
+   membandingkan angka yanng di
+
+   inputkan
+
+
+   
+
 
 
 
