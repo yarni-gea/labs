@@ -30,6 +30,7 @@ berikut flowchartnya
 
 ## dibandingkan 
 
+<img width="388" alt="image" src="https://github.com/user-attachments/assets/dbd1a955-3396-4065-829d-e007ebc62070">
  
 
 
