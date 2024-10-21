@@ -87,8 +87,30 @@ print(f"Bilangan terbesar adalah: {largest}"]
    nested if-else statement untuk
 
    membandingkan angka yanng di
-
+ 
    inputkan
+
+3. kemudian akan menampilkan mana
+
+   bilangan terbesar
+
+4. lalu program utamanya kita
+
+   masukkan angka yang harus
+
+   dimasukkan oleh user
+
+5.lalu kita panggil kembali function
+
+   mencari_bilangan_terbesar 
+
+6. lalu output bilangan tersebut dari
+
+   ketiga bilangan yang di input akan
+
+   muncul
+
+ 
 
 
    
