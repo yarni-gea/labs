@@ -110,6 +110,19 @@ print(f"Bilangan terbesar adalah: {largest}"]
 
    muncul
 
+# 2. bilanganN.py
+
+program kedua adalah 
+
+membandinggkan bilangan yang di input,
+
+input akan terus berjalan kecuali user
+
+memasukkan nilai 0 
+
+![image](https://github.com/user-attachments/assets/03ba14fe-993e-4089-b8f2-329fdf75bd20)
+
+
  
 
 
