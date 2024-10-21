@@ -11,3 +11,5 @@ nim: 312410413
 Bilangan terbesar dari 
 
 1. bilangan terbesar.py
+
+program pertama yang akan di buat adalah program unttuk menampilkan bilangan terrbesar dari 3 bilangan yang diinputkan 
