@@ -24,6 +24,14 @@ berikut flowchartnya
 
  ![image](https://github.com/user-attachments/assets/eaf9576c-05ec-43a6-93cb-194a5892c212)
 
+ ## program akan meminta kita
+
+ memasukkan 3 angka untuk 
+
+ dibandingkan: 
+
+ 
+
 
 
 
