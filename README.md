@@ -139,6 +139,83 @@ def find_largest_number():
 
 Mendefinisikan fungsi bernama find_largest_number yang akan menangani logika utama program.
 
+largest = float('-inf')  # Inisialisasi dengan nilai negatif tak terhingga
+
+Menginisialisasi variabel largest dengan nilai negatif tak terhingga. Ini memastikan bahwa angka pertama yang dimasukkan akan selalu lebih besar.
+
+*Maksud dari -infinity(Negatif tak hingga) adalah nilai negatif berapapun.
+
+count = 0
+
+Menginisialisasi variabel count untuk menghitung jumlah bilangan yang dimasukkan.
+
+Memulai loop tak terbatas. Akan terus berjalan sampai dihentikan oleh break.
+
+num = float(input(f"Masukkan bilangan ke-{count + 1} (atau 0 untuk selesai): "))
+
+Meminta input dari pengguna, mengkonversinya ke float, dan menyimpannya dalam variabel num.
+
+Jika input adalah 0, keluar dari loop.
+
+count += 1
+Menambah penghitung jumlah bilangan yang dimasukkan.
+
+if num > largest:
+            largest = num
+Jika bilangan yang baru dimasukkan lebih besar dari largest saat ini, update largest.
+
+return largest, count
+Setelah loop selesai, kembalikan bilangan terbesar dan jumlah input.
+
+print("Program untuk menentukan bilangan terbesar dari N bilangan")
+print("Masukkan angka 0 untuk mengakhiri input\n")
+Mencetak instruksi untuk pengguna.
+
+largest, count = find_largest_number()
+Memanggil fungsi find_largest_number() dan menyimpan hasilnya.
+
+if count > 0:
+Memeriksa apakah ada bilangan yang dimasukkan.
+
+print(f"\nJumlah bilangan yang dimasukkan: {count}")
+    print(f"Bilangan terbesar adalah: {largest}")
+Jika ada bilangan yang dimasukkan, cetak jumlah input dan bilangan terbesar.
+
+else:
+    print("\nTidak ada bilangan yang dimasukkan.")
+Jika tidak ada bilangan yang dimasukkan (pengguna langsung memasukkan 0), program akan dijalankan dan menampilkan output perbandingan.
+
+About
+No description, website, or topics provided.
+Resources
+ Readme
+ Activity
+Stars
+ 0 stars
+Watchers
+ 1 watching
+Forks
+ 1 fork
+Report repository
+Releases
+No releases published
+Packages
+No packages published
+Languages
+Python
+100.0%
+Footer
+© 2024 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact
+Manage cookies
+
+
 
 
  
