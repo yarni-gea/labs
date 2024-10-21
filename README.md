@@ -22,7 +22,8 @@ inputkan
 
 berikut flowchartnya 
 
- ![image](https://github.com/user-attachments/assets/eaf9576c-05ec-43a6-93cb-194a5892c212)
+![image](https://github.com/user-attachments/assets/34fc0cdd-81a5-49e4-8206-76fd6518720a)
+
 
  ## program akan meminta kita
 
@@ -121,6 +122,8 @@ input akan terus berjalan kecuali user
 memasukkan nilai 0 
 
 ![image](https://github.com/user-attachments/assets/03ba14fe-993e-4089-b8f2-329fdf75bd20)
+
+Program akan meminta kita untuk memasukkan angka untuk dibandingkan, `input akan terus diminta sebelum user memasukkan angka 0 :
 
 
  
