@@ -44,3 +44,5 @@ penjelasan program:
    
 5.program menampiilkan harga tiket yang harus di bayar oleh pengguna.
 
+flowchart
+
