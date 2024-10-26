@@ -120,6 +120,18 @@ kode program dapat dilihat di bawah ini:
 
             print(f"Hasil: {hasil}")
 
+Penjelasan Program:
+
+1.Pengguna diminta memasukkan dua angka.
+
+2.Pengguna diminta memilih salah satu operator aritmatika: +, -, *, atau /.
+
+3.Program melakukan operasi sesuai dengan operator yang dipilih.
+
+4.Jika operator adalah pembagian, program mengecek apakah pembagian dengan nol dilakukan. Jika ya, program menampilkan pesan error.
+
+5.Program menampilkan hasil perhitungan atau pesan error jika input tidak valid.
+
 
 
             
