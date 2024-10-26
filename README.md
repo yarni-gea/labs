@@ -11,6 +11,8 @@ pengguna (reguler atau vip) dan status member pengguna.jika pengguna adalah memb
 
 # Kasus 1: Program Pemesanan Tiket Bioskop
 
+kode program dapat dilihat dibawah ini
+
       # input user
 
       tipe_tiket = input("masukkan tipe tiket (reguler/vip): ").lower()
@@ -62,6 +64,8 @@ penjelasan program:
 # screenshot hasil eksekusi program :
 
 <img width="437" alt="image" src="https://github.com/user-attachments/assets/cb5fa26b-40b5-429b-950f-761b82bb3b91">
+
+
 
 
 
