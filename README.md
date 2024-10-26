@@ -77,6 +77,21 @@ pembbagian).Program akan  menghitung hasil sesuai dengan operator yang dipilih
 
 oleh pengguna.
 
+# kode program
+
+kode program dapat dilihat di bawah ini:
+
+      # kasus 2: program kalkulator sederhana 
+
+      # Input user
+      angka1 = float(input("masukkan angka pertama: "))
+      angka2= float(input("masukkan angka kedua: "))
+      operator = input("masukkan operator (+, -, *, /): ")
+
+
+      
+      
+
 
 
 
