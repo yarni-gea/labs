@@ -63,7 +63,8 @@ penjelasan program:
 
 # screenshot hasil eksekusi program :
 
-<img width="437" alt="image" src="https://github.com/user-attachments/assets/cb5fa26b-40b5-429b-950f-761b82bb3b91">
+<img width="341" alt="image" src="https://github.com/user-attachments/assets/b7a82295-0738-4b81-9e73-6b2245c7a2d2">
+
 
 # 2. program kalkulator sederhana 
 
@@ -138,7 +139,9 @@ Penjelasan Program:
 
 ![image](https://github.com/user-attachments/assets/cd1d03f1-23ca-4aeb-b5dd-b141bb521b9c)
 
+# sreenshot hasil eksekusi program 
 
+Berikut adalah hasil programnya
 
 
 <img width="233" alt="image" src="https://github.com/user-attachments/assets/01dcccb9-b423-47e0-9dc6-08b3287133c0">
