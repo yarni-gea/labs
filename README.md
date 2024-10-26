@@ -88,6 +88,45 @@ kode program dapat dilihat di bawah ini:
       angka2= float(input("masukkan angka kedua: "))
       operator = input("masukkan operator (+, -, *, /): ")
 
+      # operasi aritmatika berdasarkan input 
+
+      if perator == `+`:
+
+            hasil = angka1 + angka2
+
+      elif operator == `-`:
+
+            hasil = angka1 -angka2
+
+      elif operator == `*`:
+
+            hasil = angka1 * angka2
+
+      elif operator == `/`: 
+           
+            if angka2 != 0:
+
+                  hasil = angka1 / angka2
+
+            else:
+
+                  hasil = "Tidak bisa membagi dengan nol"
+
+            else:
+
+                  hasil = "operator tidak valid"
+
+            # Tampilkan hasil
+
+            print(f"Hasil: {hasil}")
+
+
+
+            
+
+            
+      
+
 
       
       
