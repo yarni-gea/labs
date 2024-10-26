@@ -33,10 +33,13 @@ penjelasan program:
 
 1. pengguna di minta untuk memilih tipe tiket: reguler (Rp.50.0000) atau vip
    (Rp.100.000)
+   
 2. pengguna juga diminta untuk menyatakan apaka mereka memiliki karrtu
    member atau tidak.
+   
 3.jika pengguna  memiliki kartu member, mereka mendapatkan  diskon 20%
 4.program menghitung total harga tiket berdasarkan tipe tiket dan status
    member.
+   
 5.program menampiilkan harga tiket yang harus di bayar oleh pengguna.
 
