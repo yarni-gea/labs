@@ -50,6 +50,7 @@ penjelasan program:
 
 ![image](https://github.com/user-attachments/assets/e4e4f243-bf85-45a7-91ea-13f7c5f4983c)
 
+# screenshot hasil eksekusi program :
 
 <img width="437" alt="image" src="https://github.com/user-attachments/assets/cb5fa26b-40b5-429b-950f-761b82bb3b91">
 
