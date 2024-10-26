@@ -29,9 +29,14 @@ if is_member == `ya`:
 # Tampilkan total harga 
 print(f"total harga yang harus dibayar: RP{int(harga_tiket)}")
 
-Penjelasan Program:
-Pengguna diminta untuk memilih tipe tiket: reguler (Rp50.000) atau VIP (Rp100.000).
-Pengguna juga diminta untuk menyatakan apakah mereka memiliki kartu member atau tidak.
-Jika pengguna memiliki kartu member, mereka mendapatkan diskon 20%.
-Program menghitung total harga tiket berdasarkan tipe tiket dan status member.
-Program menampilkan total harga tiket yang harus dibayar oleh pengguna.
+penjelasan program:
+
+1. pengguna di minta untuk memilih tipe tiket: reguler (Rp.50.0000) atau vip
+   (Rp.100.000)
+2. pengguna juga diminta untuk menyatakan apaka mereka memiliki karrtu
+   member atau tidak.
+3.jika pengguna  memiliki kartu member, mereka mendapatkan  diskon 20%
+4.program menghitung total harga tiket berdasarkan tipe tiket dan status
+   member.
+5.program menampiilkan harga tiket yang harus di bayar oleh pengguna.
+
