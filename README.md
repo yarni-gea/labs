@@ -132,6 +132,13 @@ Penjelasan Program:
 
 5.Program menampilkan hasil perhitungan atau pesan error jika input tidak valid.
 
+# flowchart 
+
+# flowchartnya sebagai berikut:
+
+![image](https://github.com/user-attachments/assets/cd1d03f1-23ca-4aeb-b5dd-b141bb521b9c)
+
+
 
 
             
