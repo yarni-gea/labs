@@ -44,5 +44,10 @@ penjelasan program:
    
 5.program menampiilkan harga tiket yang harus di bayar oleh pengguna.
 
-flowchart
+# flowchart
+
+# flowchart adalah sebagai berikut :
+
+![image](https://github.com/user-attachments/assets/e4e4f243-bf85-45a7-91ea-13f7c5f4983c)
+
 
