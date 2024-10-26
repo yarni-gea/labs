@@ -38,6 +38,7 @@ penjelasan program:
    member atau tidak.
    
 3.jika pengguna  memiliki kartu member, mereka mendapatkan  diskon 20%
+
 4.program menghitung total harga tiket berdasarkan tipe tiket dan status
    member.
    
