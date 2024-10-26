@@ -65,6 +65,23 @@ penjelasan program:
 
 <img width="437" alt="image" src="https://github.com/user-attachments/assets/cb5fa26b-40b5-429b-950f-761b82bb3b91">
 
+2.# program kalkulator sederhana 
+
+# deskripsi program
+
+Program ini adalah kalkulator sederhana yang menerima dua angka dan satu
+
+operator aritmatika dari pengguna (penjumlhan,penguranga,perkalian, atau
+
+pembbagian).Program akan  menghitung hasil sesuai dengan operator yang dipilih
+
+oleh pengguna.
+
+
+
+
+
+
 
 
 
